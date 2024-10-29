@@ -21,12 +21,10 @@ public class Palindrome_Check {
 			}
 		}
 		if (isPalindrome) {
-			System.out.println("The given string is a Palindrome");
+			System.out.println("The given string is a Palindrome String ");
 		}
 		else {
-			System.out.println("The Given string is a non palindrome");
-		}
-		
+			System.out.println("The Given string is not a  palindrome String");
+		}		
 	}
-
 }

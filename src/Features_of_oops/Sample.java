@@ -22,6 +22,11 @@ public class Sample extends Add {
 	
 
 
+	Sample(int num1, int num2) {
+		super(num1, num2);
+		// TODO Auto-generated constructor stub
+	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
